@@ -28,11 +28,13 @@ const Hero = () => {
           <p className='text-[20px] text-white font-medium text-center pb-3 lg:py-0 py-4 leading-snug'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus perferendis temporibus dolore minus eaque illum, ratione commodi dignissimos aspernatur praesentium voluptate exercitationem quod, quos voluptates repellendus labore numquam debitis laudantium?
           </p>
-          <button className='bg-none rounded-full w-[195px] py-[4px] border-white border-[3px] mt-6 lg:mx-0 mx-auto'>
-            <span className='bg-white rounded-full px-[34px] py-2 text-[16px] text-black font-bold relative right-[6px] bottom-[5px]'>
-              Join the Waitlist
-            </span>
-          </button>
+          <button className='bg-none rounded-full w-[200px] py-[8px]  border-white border-[3px] my-7'  >
+
+<span className='bg-white rounded-full px-[36px] py-3 text-[16px] text-black font-bold relative right-[7px] bottom-[6px]'> Join the Waitlist</span>
+
+</button>
+
+  
         </div>
       </div>
     </section>
