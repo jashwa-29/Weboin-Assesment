@@ -46,11 +46,11 @@ const Joinform = () => {
                                 onChange={(e) => setCity(e.target.value)}
                             />
                         </div>
-                        <button className='bg-none rounded-full w-[195px] py-[4px]  border-orange-600 border-[3px] my-7'  >
+                        <button className='bg-none rounded-full w-[200px] py-[8px]  border-orange-600 border-[3px] my-7'  >
 
-<span className='bg-orange-600 rounded-full px-[34px] py-2 text-[16px] text-black font-bold relative right-[6px] bottom-[5px]'> Join the Waitlist</span>
+                          <span className='bg-orange-600 rounded-full px-[36px] py-3 text-[16px] text-black font-bold relative right-[7px] bottom-[6px]'> Join the Waitlist</span>
  
-</button>
+                        </button>
                     </form>
                 </div> 
                 : 
